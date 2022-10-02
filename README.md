@@ -5,6 +5,10 @@ of the path specified in a source comment.
 
 Only local images inside the workspace are allowed.
 
+![Code Comments](https://raw.githubusercontent.com/mnesarco/vscode.imagecomments/main/media/code.png)
+
+
+
 ![Video](https://raw.githubusercontent.com/mnesarco/vscode.imagecomments/main/media/video2.gif)
 
 ## Features
